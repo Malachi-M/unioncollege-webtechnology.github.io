@@ -1,4 +1,4 @@
-Union Colleg Web Technology Group
+Union College Web Technology Group
 ==================================
 
 The Web Technology Group is a collaboration between students and faculty/staff at Union College who are interested in web design and development. This group includes students in both the computing and graphic design programs, as well as computing faculty and staff in information technology.
